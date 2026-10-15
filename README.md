@@ -18,7 +18,7 @@ El sitio incluye la página Inicio y las plantillas `pages/menu.html`, `pages/eq
 
 | Estudiante | Página asignada | Rama | Commits principales |
 |---|---|---|---|
-| | | | |
+| Alexis Rivera| | | |
 
 ## Evidencias Git
 
